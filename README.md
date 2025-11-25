@@ -1,4 +1,6 @@
-https://fosci.substack.com/p/self-citation-patterns-among-researchers 
+The full methodology and results are published in the corresponding blog post, available here: https://fosci.substack.com/p/self-citation-patterns-among-researchers
+
+Special Thanks: Thank you Leslie McIntosh for the invitation and guidance on this analysis and publication.
 
 Self-citation distribution:
 
