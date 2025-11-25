@@ -4,6 +4,11 @@ https://fosci.substack.com/p/self-citation-patterns-among-researchers
 
 Special Thanks go to Leslie McIntosh for the invitation and guidance on this analysis and publication.
 
+
+
+
+
+
 Self-citation distribution:
 
 <img width="705" height="192" alt="image" src="https://github.com/user-attachments/assets/eed6279e-c12c-4a2e-b9d9-a7c90b0e9d8f" />
