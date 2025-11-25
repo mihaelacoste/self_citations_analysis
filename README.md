@@ -37,7 +37,7 @@ Academic age:
 
 <img width="589" height="345" alt="image" src="https://github.com/user-attachments/assets/d7db8e2f-9f3f-4107-b858-6045777bf009" />
 
-Methodology:
+## Methodology:
 The data for this analysis were sourced from Dimensions. Our approach focused on isolating a population of active and impactful researchers and then defining and quantifying self-citation at the paper level.
 The following criteria were applied to select the eligible research output and researchers:
 
