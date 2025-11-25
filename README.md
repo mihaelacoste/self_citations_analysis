@@ -5,6 +5,14 @@ https://fosci.substack.com/p/self-citation-patterns-among-researchers
 Special Thanks go to Leslie McIntosh for the invitation and guidance on this analysis and publication.
 
 
+## Data Source Disclaimer
+
+The original analysis was performed on proprietary academic data infrastructure. For public sharing and data security:
+
+1.  **Code Functionality:** All SQL queries and Python data processing logic are preserved and fully functional.
+2.  **Anonymization:** All BigQuery table paths and project names have been substituted with anonymized placeholders (e.g., `anonymized_project.citation_metrics`). The code cannot be run without replacing these placeholders with valid credentials and table names.
+
+
 
 
 
